@@ -1,0 +1,23 @@
+{
+  "name": "noto-emoji",
+  "version": "1.0.0",
+  "description": "Noto Emoji",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlei18n/noto-emoji.git"
+  },
+  "keywords": [
+    "Noto",
+    "Emoji"
+  ],
+  "author": "Google Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/googlei18n/noto-emoji/issues"
+  },
+  "homepage": "https://github.com/googlei18n/noto-emoji#readme"
+}
